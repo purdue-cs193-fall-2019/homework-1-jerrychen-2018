@@ -7,7 +7,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Jerry's First CS193 Homework
 
-### Header 3
 
 ## Favorite things about CS193
 - Cool teachers
