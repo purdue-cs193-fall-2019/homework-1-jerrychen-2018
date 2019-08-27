@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 _Data Science > Computer Science_
 
-[Link](url) and ![Image](src)
+[Link](https://en.wikipedia.org/wiki/Data_science) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
